@@ -37,7 +37,7 @@ app.post("/", function(req, res){
     const url = 'https://us10.api.mailchimp.com/3.0/lists/37931db152'
     const options = {
         method: "POST",
-        auth: "danilo1:313e80e147ca19af10e1f47088edcd73us10"
+        auth: "danilo1:313e80e147ca19af10e1f47088edcd73-us10"
     };
 
 
